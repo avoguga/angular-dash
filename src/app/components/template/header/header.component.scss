@@ -1,6 +1,14 @@
-div {
-    display: block;
-    position: fixed;
+.header {
+  background-color: #4DC6E2;
 
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  width: 100%;
 
+  a {
+    display: flex;
+    
+    text-decoration: none;
+  }
 }

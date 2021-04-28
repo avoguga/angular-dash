@@ -1,0 +1,35 @@
+p {
+  color: #000;
+}
+
+.drawerContainer {
+  height: 100%;
+  width: 100%;
+  margin-top: 4rem;
+
+  position: fixed;
+  
+  background-color: #4DC6E2;
+}
+
+.sideDrawer{
+  width: 10rem;
+  display: flex;
+
+  background-color: #4DC6E2;
+  color: #000;
+}
+
+.content {
+  background-color: #eaf2ff;
+  width: 100%;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: row;
+}
+
+.material-icons{
+  margin-left: 2rem;
+}
