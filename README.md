@@ -1,4 +1,8 @@
-# Dashboard
+# Dashboard em angular >//<
+
+Dashboard em angular que tô fazendo com intuito de ver até onde consigo chegar com esse framework js, para rodar esse projeto inicial só precisa seguir os passos abaixo!
+
+## Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
